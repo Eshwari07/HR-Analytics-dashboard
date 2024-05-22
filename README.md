@@ -7,9 +7,7 @@
 ## Links:
 Lets Connect 
 
-[Go to my LinkedIn](https://www.linkedin.com/in/gulshan-gedam-362905209/) 🌐
-
-[Go to My Dashboard](https://public.tableau.com/app/profile/gulshan.gedam/viz/HRANALYTICSDASHBOARD-ACOMPLETEEMPLOYEEDATAANALYSIS/HRDashboard?publish=yes)
+[Go to my LinkedIn](www.linkedin.com/in/eshwari-gone-8a0500194) 🌐
 
 ## PROJECT NAME:
 
@@ -71,14 +69,6 @@ This includes trendline and target line to help HR managers track progress towar
     
     7th Sheet: Education Field wise Attrition (Donut Plot)
 
-## DASHBOARD:
-
-![HR Dashboard ](https://user-images.githubusercontent.com/124501309/227755419-ff277f69-fd14-4d51-b85f-973c25a6219f.png)
-
-### DASHBOARD VIDEO:
-
-https://user-images.githubusercontent.com/124501309/227794176-ee1b6f90-9078-41aa-a185-914f27d5215d.mp4
-
 ### DASHBOARD OVERVIEW:
 
 The HR Analytics Dashboard project using Tableau is designed to provide insights into key metrics and trends related to human resource management in an organization. The dashboard utilizes visualizations and data analysis techniques to help HR professionals identify patterns and make data-driven decisions. The dashboard includes several key visualizations that provide a comprehensive overview of HR-related metrics, including employee turnover rate, headcount, and employee engagement levels. The dashboard also includes metrics related to recruitment, including time-to-fill and cost-per-hire.
@@ -92,17 +82,3 @@ Overall, HR Analytics Dashboard project using Tableau is an essential tool for a
 ## NOTE: 
 
 I have uploaded all the files, datasets, workbook, icons above. Feel free to use this Project's resourses for your next Project. If you like this Project and Dashboard give it a Star or just tell me. It'll make me feel Good :)
-
-[Go to my LinkedIn](https://www.linkedin.com/in/gulshan-gedam-362905209/) 🌐
-
-## My Other Projects:
-
-- [ATLIQ Sales Insight](https://github.com/gulshang7/ATLIQ_Sales_Insight_Data_Analysis_using_SQL_and_Tableau) 💻
-
-- [Financial Consumer Complaints Data Analysis](https://github.com/gulshang7/Financial-Consumer-Complaints-Data-Analysis-Using-Tableau-Dashboard) 📜
-
-- [KPI Dashboard of Car Sales Opportunities](https://github.com/gulshang7/KPI_Dashboard_of_Car_sales_Win_Loss_Data_Analysis_using_Excel_and_Tableau) 🛰️
-
-- [Github Profile](https://github.com/gulshang7) 🧮
-
-- [Linkedin](https://www.linkedin.com/in/gulshan-gedam-362905209/) 🤝
