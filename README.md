@@ -7,7 +7,7 @@
 ## Links:
 Lets Connect 
 
-[Go to my LinkedIn](www.linkedin.com/in/eshwari-gone-8a0500194) 🌐
+[Go to my LinkedIn](https://www.linkedin.com/in/eshwari-gone-8a0500194/) 🌐
 
 ## PROJECT NAME:
 
